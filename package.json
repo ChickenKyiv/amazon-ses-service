@@ -123,7 +123,7 @@
     "babel-loader": "8.1.0",
     "babel-plugin-transform-react-remove-prop-types": "0.4.24",
     "babel-tape-runner": "3.0.0",
-    "chai": "4.2.0",
+    "chai": "4.3.0",
     "chalk": "4.1.0",
     "css-loader": "3.6.0",
     "enzyme": "3.11.0",
